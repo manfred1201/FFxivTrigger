@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TriggernometryExport Version="1">
+  <ExportedTrigger Enabled="true" Name="S怪" Id="7944dcdc-a20d-4bd6-92d9-89919f8500f4" RegularExpression="Rank S: ">
+    <Actions>
+      <Action OrderNumber="1" UseTTSTextExpression="S怪S怪" ActionType="UseTTS">
+        <Condition Enabled="false" Grouping="Or" />
+      </Action>
+    </Actions>
+    <Condition Enabled="false" Grouping="Or" />
+    <Conditions />
+  </ExportedTrigger>
+</TriggernometryExport>
